@@ -1,4 +1,4 @@
-# Task-1---Digital-Clock-
+Internpe # Task-1---Digital-Clock-
 import tkinter as tk
 import time
 
